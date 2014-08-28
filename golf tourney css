@@ -1,0 +1,8 @@
+h1 {border: solid red;
+text-align: center;}
+
+ .sidebar {border: solid red;}
+
+ .form {border: soid red;}
+
+ .button {background: linear-gradient(to right, green, yellow);;
